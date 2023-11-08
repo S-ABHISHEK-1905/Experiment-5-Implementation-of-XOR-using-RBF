@@ -49,8 +49,8 @@ This neural network is constructed using the architecture of 2-2-1;
 
 ## PROGRAM:
 ```
-DEVELOPED BY : B.Pavizhi
-REG NO : 212221230077
+DEVELOPED BY : S.ABHISHEK
+REG NO : 212221230002
 Program to classify the Binary input patterns of XOR data by implementing Radial Basis Function Neural Networks.
 import numpy as np
 import matplotlib.pyplot as plt
